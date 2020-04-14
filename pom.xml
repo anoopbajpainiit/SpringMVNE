@@ -8,6 +8,8 @@
     <artifactId>SpringMVNE</artifactId>
     <version>1.0-SNAPSHOT</version>
     <description>This is a hello world example with Spring Boot.</description>
+    <packaging>war</packaging>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
